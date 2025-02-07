@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/your-image.png" alt="Banner" style="width: 100%; height: auto;"/>
+  <img src="https://i.ibb.co.com/your-banner-image.png" alt="Anik Imtiaz - Front-End Developer" style="width: 100%; max-width: 1200px; height: auto;"/>
 </div>
 
 <h1>Hi 👋, I'm Front-End Developer</h1>
