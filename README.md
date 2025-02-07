@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile" alt="Banner" style="width: 100%; height: auto;"/>
+</div>
 <h1>Hi 👋, I'm Front-End Developer</h1>
 <p>A passionate frontend developer from </p>
 <h2>🚀 Languages and Tools I Use</h2>
