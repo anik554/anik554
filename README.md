@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=38BDD8&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Anik+Imtiaz;Front-End+Developer;React+%7C+TypeScript+%7C+Node.js;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 
-  <img src={https://i.ibb.co.com/swkPqyv/image.jpg} />
+  <img src={https://i.ibb.co.com/swkPqyv/image.jpg} alt="image" />
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anik-imtiaz-b65816209)
   [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
